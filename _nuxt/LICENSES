@@ -11,6 +11,12 @@
   */
 
 /**
+ * vuex v3.1.0
+ * (c) 2019 Evan You
+ * @license MIT
+ */
+
+/**
  * vue-meta v1.6.0
  * (c) 2019 Declan de Wet & Sébastien Chopin (@Atinux)
  * @license MIT
@@ -21,6 +27,12 @@
 	(c) Sindre Sorhus
 	@license MIT
 	*/
+
+/*!
+ * vue-i18n v7.3.2 
+ * (c) 2017 kazuya kawaguchi
+ * Released under the MIT License.
+ */
 
 /*!
  * vue-no-ssr v1.1.1
