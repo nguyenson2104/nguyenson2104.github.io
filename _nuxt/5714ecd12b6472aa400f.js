@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{725:function(n,t,r){"use strict";r.r(t),r.d(t,"get",function(){return c}),r.d(t,"post",function(){return f});r(30),r(15),r(54);var e=r(702),o=r.n(e);function c(n){return o.a.get(n)}function f(n,data){var t=new URLSearchParams;return Object.keys(data).forEach(function(n){t.append(n,data[n])}),o.a.post(n,t)}}}]);
